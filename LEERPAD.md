@@ -22,7 +22,7 @@ flowchart LR
 | 4. Betrouwbaarheid | 12–14 | Je bouwt, test en logt een JDBC-applicatie reproduceerbaar. |
 | 5. Parallel werk | 08 | Je herkent races, gebruikt executors en kunt cancellation correct doorgeven. |
 | 6. Onder de motorkap | 09–10 | Je verklaart bytecode, classloading, heapgedrag en modulegrenzen. |
-| 7. Ontwerp | 11, 15–16 | Je ontwerpt een veilige, evolueerbare Java-API zonder frameworkafhankelijkheid. |
+| 7. Ontwerp en breedte | 11, 15–16, 19 | Je ontwerpt een veilige, evolueerbare Java-API en herkent de overige Java SE-domeinen. |
 | 8. Expert | 17–18 | Je diagnosticeert met metingen en verdedigt technische keuzes met bewijs. |
 
 ### Aanbevolen ritme

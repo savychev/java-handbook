@@ -21,6 +21,7 @@ korte definitie gebruik je de [Woordenlijst](./WOORDENLIJST.md).
 | assertions | [Taalbasis](./docs/01-taalbasis/README.md) |
 | atomicity / atomics | [Concurrency](./docs/08-concurrency/README.md) |
 | autoboxing | [Taalbasis](./docs/01-taalbasis/README.md) |
+| AWT / accessibility | [Java SE-breedtekaart](./docs/19-platform-breedte/README.md) |
 
 ## B
 
@@ -60,6 +61,7 @@ korte definitie gebruik je de [Woordenlijst](./WOORDENLIJST.md).
 | command pattern | [Architectuur](./docs/15-architectuur/README.md) |
 | comparator / comparable | [Collecties](./docs/04-collecties/README.md) |
 | compile-time | [Oriëntatie](./docs/00-orientatie/README.md) |
+| Compiler API | [Java SE-breedtekaart](./docs/19-platform-breedte/README.md) |
 | composition | [Objectoriëntatie](./docs/02-objectorientatie/README.md) |
 | `CompletableFuture` | [Concurrency](./docs/08-concurrency/README.md) |
 | concurrency | [Concurrency](./docs/08-concurrency/README.md) |
@@ -78,6 +80,7 @@ korte definitie gebruik je de [Woordenlijst](./WOORDENLIJST.md).
 | decorator | [Architectuur](./docs/15-architectuur/README.md) |
 | dependency injection | [Architectuur](./docs/15-architectuur/README.md) |
 | dependency resolution | [Build en tooling](./docs/14-build-tooling/README.md) |
+| desktop API | [Java SE-breedtekaart](./docs/19-platform-breedte/README.md) |
 | deserialisatie | [I/O en NIO](./docs/07-io-nio/README.md) |
 | `Duration` | [Standaardbibliotheek](./docs/06-standaardbibliotheek/README.md) |
 | dynamic proxy | [Reflectie en modules](./docs/10-reflectie-modules/README.md) |
@@ -133,6 +136,7 @@ korte definitie gebruik je de [Woordenlijst](./WOORDENLIJST.md).
 | Begrip | Hoofdstuk |
 |---|---|
 | identity | [Objectoriëntatie](./docs/02-objectorientatie/README.md) |
+| ImageIO | [Java SE-breedtekaart](./docs/19-platform-breedte/README.md) |
 | immutable | [Architectuur](./docs/15-architectuur/README.md) |
 | imports | [Oriëntatie](./docs/00-orientatie/README.md) |
 | incubator | [Modern Java](./docs/16-modern-java/README.md) |
@@ -152,6 +156,8 @@ korte definitie gebruik je de [Woordenlijst](./WOORDENLIJST.md).
 |---|---|
 | JAR | [Build en tooling](./docs/14-build-tooling/README.md) |
 | Java agents | [Expertpraktijk](./docs/17-expert/README.md) |
+| JavaBeans | [Java SE-breedtekaart](./docs/19-platform-breedte/README.md) |
+| JavaFX | [Java SE-breedtekaart](./docs/19-platform-breedte/README.md) |
 | Java Memory Model | [Java Memory Model](./docs/08-concurrency/memory-model.md) |
 | Java SE | [Oriëntatie](./docs/00-orientatie/README.md) |
 | `java.time` | [Standaardbibliotheek](./docs/06-standaardbibliotheek/README.md) |
@@ -161,6 +167,7 @@ korte definitie gebruik je de [Woordenlijst](./WOORDENLIJST.md).
 | JDK | [Oriëntatie](./docs/00-orientatie/README.md) |
 | JFR | [Expertpraktijk](./docs/17-expert/README.md) |
 | JIT | [Geheugen, GC en JIT](./docs/09-jvm/geheugen-gc-jit.md) |
+| JMX / JNDI | [Java SE-breedtekaart](./docs/19-platform-breedte/README.md) |
 | JMH | [Expertpraktijk](./docs/17-expert/README.md) |
 | JNI | [JVM](./docs/09-jvm/README.md) |
 | JPMS | [Reflectie en modules](./docs/10-reflectie-modules/README.md) |
@@ -242,6 +249,7 @@ korte definitie gebruik je de [Woordenlijst](./WOORDENLIJST.md).
 | polymorfisme | [Objectoriëntatie](./docs/02-objectorientatie/README.md) |
 | prepared statement | [Data en JDBC](./docs/12-data-jdbc/README.md) |
 | preview feature | [Modern Java](./docs/16-modern-java/README.md) |
+| Preferences API | [Java SE-breedtekaart](./docs/19-platform-breedte/README.md) |
 | primitive type | [Taalbasis](./docs/01-taalbasis/README.md) |
 | process | [Concurrency](./docs/08-concurrency/README.md) |
 | profiling | [Expertpraktijk](./docs/17-expert/README.md) |
@@ -264,6 +272,7 @@ korte definitie gebruik je de [Woordenlijst](./WOORDENLIJST.md).
 | recursion | [Taalbasis](./docs/01-taalbasis/README.md) |
 | reflection | [Reflectie en modules](./docs/10-reflectie-modules/README.md) |
 | regex | [Standaardbibliotheek](./docs/06-standaardbibliotheek/README.md) |
+| RMI | [Java SE-breedtekaart](./docs/19-platform-breedte/README.md) |
 | repository pattern | [Data en JDBC](./docs/12-data-jdbc/README.md) |
 | resource | [I/O en NIO](./docs/07-io-nio/README.md) |
 | retry | [Expertpraktijk](./docs/17-expert/README.md) |
@@ -274,6 +283,7 @@ korte definitie gebruik je de [Woordenlijst](./WOORDENLIJST.md).
 | Begrip | Hoofdstuk |
 |---|---|
 | safe publication | [Java Memory Model](./docs/08-concurrency/memory-model.md) |
+| SAX / StAX | [Java SE-breedtekaart](./docs/19-platform-breedte/README.md) |
 | scope | [Taalbasis](./docs/01-taalbasis/README.md) |
 | scoped value | [Concurrency](./docs/08-concurrency/README.md) |
 | sealed class/interface | [Objectoriëntatie](./docs/02-objectorientatie/README.md) |
@@ -284,6 +294,7 @@ korte definitie gebruik je de [Woordenlijst](./WOORDENLIJST.md).
 | serialisatie | [I/O en NIO](./docs/07-io-nio/README.md) |
 | `ServiceLoader` | [Reflectie en modules](./docs/10-reflectie-modules/README.md) |
 | `Set` | [Collecties](./docs/04-collecties/README.md) |
+| scripting | [Java SE-breedtekaart](./docs/19-platform-breedte/README.md) |
 | socket | [Netwerk en security](./docs/11-netwerk-security/README.md) |
 | SOLID | [Architectuur](./docs/15-architectuur/README.md) |
 | SQL-injectie | [Data en JDBC](./docs/12-data-jdbc/README.md) |
@@ -293,6 +304,7 @@ korte definitie gebruik je de [Woordenlijst](./WOORDENLIJST.md).
 | stream | [Functioneel Java](./docs/05-functioneel/README.md) |
 | structured concurrency | [Concurrency](./docs/08-concurrency/README.md) |
 | `String` / `StringBuilder` | [Taalbasis](./docs/01-taalbasis/README.md) |
+| Swing | [Java SE-breedtekaart](./docs/19-platform-breedte/README.md) |
 | `synchronized` | [Concurrency](./docs/08-concurrency/README.md) |
 
 ## T
@@ -346,6 +358,7 @@ korte definitie gebruik je de [Woordenlijst](./WOORDENLIJST.md).
 
 | Begrip | Hoofdstuk |
 |---|---|
+| XML / XPath / XSLT | [Java SE-breedtekaart](./docs/19-platform-breedte/README.md) |
 | XML/JAR/ZIP als onbetrouwbare input | [I/O en NIO](./docs/07-io-nio/README.md) |
 
 ## Y

@@ -8,6 +8,7 @@ specificaties en de documentatie van de gebruikte release voorrang.
 - [Java Language Specification, Java SE 25][jls]
 - [Java Virtual Machine Specification, Java SE 25][jvms]
 - [Java SE 25 API-documentatie][api]
+- [Java SE 25-moduleoverzicht][java-se]
 - [JDK 25-documentatie][jdk-docs]
 - [JDK 25-project en JEP-lijst][jdk-25]
 - [JDK 26-project en JEP-lijst][jdk-26]
@@ -23,6 +24,7 @@ specificaties en de documentatie van de gebruikte release voorrang.
 - [JDK Tool Specifications][tools]
 - [Java Platform Module System][jpms]
 - [dev.java — officiële leerartikelen][dev-java]
+- [OpenJFX-documentatie][openjfx]
 
 ## Ecosysteem
 
@@ -51,6 +53,7 @@ compatibiliteit en security-informatie.
 [jls]: https://docs.oracle.com/javase/specs/jls/se25/html/
 [jvms]: https://docs.oracle.com/javase/specs/jvms/se25/html/
 [api]: https://docs.oracle.com/en/java/javase/25/docs/api/
+[java-se]: https://docs.oracle.com/en/java/javase/25/docs/api/java.se/module-summary.html
 [jdk-docs]: https://docs.oracle.com/en/java/javase/25/
 [jdk-25]: https://openjdk.org/projects/jdk/25/
 [jdk-26]: https://openjdk.org/projects/jdk/26/
@@ -63,6 +66,7 @@ compatibiliteit en security-informatie.
 [tools]: https://docs.oracle.com/en/java/javase/25/docs/specs/man/
 [jpms]: https://openjdk.org/projects/jigsaw/spec/
 [dev-java]: https://dev.java/
+[openjfx]: https://openjfx.io/openjfx-docs/
 [maven]: https://maven.apache.org/guides/
 [gradle]: https://docs.gradle.org/current/userguide/userguide.html
 [junit]: https://docs.junit.org/6.1.2/

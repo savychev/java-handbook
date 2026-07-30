@@ -24,6 +24,7 @@ taalregels worden voorgesteld.
 | al een andere taal kent | [Versnelde route](./LEERPAD.md#route-b-versneld-voor-ervaren-programmeurs) |
 | één onderwerp wilt opzoeken | [Index A–Z](./INDEX-A-Z.md) |
 | een technisch woord niet begrijpt | [Woordenlijst](./WOORDENLIJST.md) |
+| wilt controleren wat wel en niet gedekt is | [Dekkingsmatrix](./DEKKING.md) |
 | direct de hele structuur wilt zien | [Inhoudsopgave](./INHOUDSOPGAVE.md) |
 | wilt oefenen | [Praktijk en projecten](./docs/18-praktijk/README.md) |
 
@@ -62,6 +63,7 @@ flowchart TD
 | 16 | [Modern Java](./docs/16-modern-java/README.md) | evolutie Java 8–26, previews, migratie |
 | 17 | [Expertpraktijk](./docs/17-expert/README.md) | diagnose, JMH, geheugenlekken, productiechecklists |
 | 18 | [Praktijk](./docs/18-praktijk/README.md) | oefeningen, projecten, interviewvragen, beheersing |
+| 19 | [Java SE-breedtekaart](./docs/19-platform-breedte/README.md) | desktop, XML, JMX, RMI, JNDI, compiler- en niche-API's |
 
 ## Hoe je dit handboek gebruikt
 
@@ -89,13 +91,13 @@ de voorbeelden laten zien hoe de concepten samenkomen.
 
 - Spring en het Spring-ecosysteem;
 - Android-specifieke API's;
-- diepgaande GUI-ontwikkeling met Swing, AWT of JavaFX;
 - volledige documentatie van ieder pakket en iedere methode;
 - productspecifieke cloud- en application-serverconfiguratie.
 
-De onderliggende kennis die zulke frameworks begrijpelijk maakt — HTTP,
-JDBC, transacties, concurrency, modules, testen en architectuur — staat er
-juist wél in.
+De [Java SE-breedtekaart](./docs/19-platform-breedte/README.md) behandelt ook
+desktop-, XML-, management- en legacy-API's. De onderliggende kennis die
+frameworks begrijpelijk maakt — HTTP, JDBC, transacties, concurrency, modules,
+testen en architectuur — staat er juist wél in.
 
 ## Kwaliteitsprincipes
 

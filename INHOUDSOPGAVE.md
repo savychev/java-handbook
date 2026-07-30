@@ -180,9 +180,21 @@ Deze inhoudsopgave is de lineaire route. Gebruik de
 - Interviewvragen
 - Definitie van beheersing
 
+## 19 — Java SE-breedtekaart
+
+- [Overzicht](./docs/19-platform-breedte/README.md)
+- Java SE-modulekaart en API-discovery
+- AWT, Swing, event dispatch thread en JavaFX-positionering
+- Graphics, imaging, audio, print, clipboard en accessibility
+- XML met DOM, SAX, StAX, XPath, XSLT en veilige parserconfiguratie
+- JMX, management, monitoring en attach/instrumentation
+- JNDI, RMI, JavaBeans en andere legacy-/niche-API's
+- Compiler API, scripting, preferences en platformintegratie
+
 ## Extra naslag
 
 - [Leerpad](./LEERPAD.md)
+- [Dekkingsmatrix](./DEKKING.md)
 - [Index A–Z](./INDEX-A-Z.md)
 - [Woordenlijst](./WOORDENLIJST.md)
 - [Versiebeleid](./VERSIES.md)
